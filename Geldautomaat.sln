@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geldautomaat", "Geldautomaat\Geldautomaat.csproj", "{4FE83896-00AD-4306-9C00-09621DA27FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE83896-00AD-4306-9C00-09621DA27FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE83896-00AD-4306-9C00-09621DA27FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE83896-00AD-4306-9C00-09621DA27FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE83896-00AD-4306-9C00-09621DA27FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E00B507D-306B-4760-9D0D-0259EB70C179}
+	EndGlobalSection
+EndGlobal
